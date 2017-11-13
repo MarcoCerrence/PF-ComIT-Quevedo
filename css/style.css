@@ -1,0 +1,22 @@
+.principal{
+    float:right;
+}
+.bien{
+    text-align:center;  
+}
+#punto{
+    float:left;
+}
+#moder{
+    float:right;
+}
+.centrar{
+    float:center;
+}
+#title{
+    text-align:center;
+}
+.carousel-inner{
+    height: 400px;
+    width: 1100px;
+} 
